@@ -7,7 +7,7 @@
   </a>
 </p>
 
-I’m a self tought Full Stuck Developer and I’m looking to collaborate on Open Source projects
+I’m a self tought Full Stack Developer and I’m looking to collaborate on Open Source projects
 and help solve problems to the best of my ability.
 Happy coding y'all.
 
