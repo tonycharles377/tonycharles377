@@ -25,8 +25,15 @@
 
 <h2 align="center">🥇 Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats-flame-delta.vercel.app?user=tonycharles377&theme=highcontrast)](https://git.io/streak-stats)      ![tonycharles377's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycharles377&show_icons=true&theme=highcontrast)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-flame-delta.vercel.app?user=tonycharles377&theme=highcontrast" />
+  </a>
 
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tonycharles377&show_icons=true&theme=highcontrast" />
+  </a>
+</div>
 
 <div align="center">
   <h3 align="center">📬 How To Reach Me</h3>
