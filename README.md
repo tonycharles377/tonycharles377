@@ -12,12 +12,21 @@
   <p>I'm a dedicated and versatile full-stack web developer with a passion for creating exceptional digital experiences.
   My goal is to build and optimize digital landscapes that not only meet but exceed the expectations of users and clients
   alike. Let's turn your web development aspirations into reality!</p>
-  
-  <br>
-
-  ⏳ I'm currently working as a **Freelancer**
-  
 </div>
+
+<h2 align="center">🛠 Languages-Frameworks-Tools</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,c,vscode,git,bash,wordpress,react,nodejs,figma&perline=7" />
+  </a>
+</div>
+
+
+<h2 align="center">🥇 Stats</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats-flame-delta.vercel.app?user=tonycharles377&theme=highcontrast)](https://git.io/streak-stats)      ![tonycharles377's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycharles377&show_icons=true&theme=highcontrast)
+
 
 <div align="center">
   <h3 align="center">📬 How To Reach Me</h3>
@@ -30,15 +39,6 @@
   </a>
  
 </div>
-
-<h2 align="center">🛠 Languages-Frameworks-Tools</h2>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,c,vscode,git,bash,wordpress,react,nodejs,figma&perline=7" />
-  </a>
-</div>
-
 
 
 <!---
