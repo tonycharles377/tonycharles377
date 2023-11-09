@@ -43,6 +43,8 @@
   </a>
 </div>
 
+![snake gif](https://github.com/tonycharles377/tonycharles377/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
   <h3 align="center">📬 How To Reach Me</h3>
   <a href="https://www.linkedin.com/in/charles-omondi">
