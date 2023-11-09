@@ -33,17 +33,15 @@
   <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonycharles377&show_icons=true&theme=highcontrast" />
   </a>
+</div>
 
+<br>
+
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycharles377&layout=compact" />
   </a>
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <div align="center">
   <h3 align="center">📬 How To Reach Me</h3>
