@@ -33,6 +33,10 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=tonycharles377&show_icons=true&theme=highcontrast" />
   </a>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  </a>
 </div>
 
 <div align="center">
