@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats-flame-delta.vercel.app?user=tonycharles377&theme=highcontrast" />
+    <img align="center" src="https://streak-stats.demolab.com?user=tonycharles377&theme=highcontrast" alt="GitHub Streak" />
   </a>
 
   <a href="https://git.io/streak-stats">
@@ -32,8 +32,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycharles377&layout=compact" />
   </a>
 </div>
-
-![snake gif](https://github.com/tonycharles377/tonycharles377/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <h3 align="center">📬 How To Reach Me</h3>
